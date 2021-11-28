@@ -1,6 +1,6 @@
 # madatdsu-lecture04
 React native login form
 
-Run project: npm install or yarn install
+Step 01: npm install or yarn install
 
-Start project: npx react-native run-android
+Step 02: npx react-native run-android
